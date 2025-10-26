@@ -1,5 +1,5 @@
 window.config={
-    logo: 'https://img2.imgtp.com/2024/03/11/YzU8iDJp.png', // 网站logo
+    logo: 'https://favicon.im/deepseek.com?larger=true', // 网站logo
     title:"AirBus", // 网站标题
     host:"https://aqns.de/", // 后端接口地址
     storeHome: {
@@ -57,7 +57,7 @@ window.config={
         title: '邀请好友，共享优惠', // 首页banner标题
         link: '/dashboard/invite', // 首页banner链接，站内链接
         btnText: '立即邀请', // 首页banner按钮文字
-        element: 'https://gd-hbimg.huaban.com/e68ceb12ffbd7dbeb698b3c5f4d2ed90185241be25183e-tShOmr_fw1200webp', // 首页banner元素图片
+        element: 'https://favicon.im/deepseek.com?larger=true', // 首页banner元素图片
         bgImg: 'https://gd-hbimg.huaban.com/246ac6f06aeeab3b0c7e5908e7693b9a0e1b8a5249899-hB42f3_fw1200', // 首页banner背景图片
     }
 }
